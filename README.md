@@ -1,5 +1,7 @@
 ﻿# MyReads-Project
 
+Visit here: [Restaurant Reviews](https://search-for-places.appspot.com/)
+
 ## Table of Contents
 
 * [How to run the application](#how-to-run-the-app)
