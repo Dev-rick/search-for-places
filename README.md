@@ -1,6 +1,6 @@
-﻿# search-for-places-Project
+﻿# Neighborhood Map (React)
 
-Visit here: [search-for-places](https://search-for-places.appspot.com/)
+Visit here: [DEMO](https://search-for-places.appspot.com/)
 
 ## Table of Contents
 
