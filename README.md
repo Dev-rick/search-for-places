@@ -1,6 +1,6 @@
-﻿# MyReads-Project
+﻿# search-for-places-Project
 
-Visit here: [Restaurant Reviews](https://search-for-places.appspot.com/)
+Visit here: [search-for-places](https://search-for-places.appspot.com/)
 
 ## Table of Contents
 
